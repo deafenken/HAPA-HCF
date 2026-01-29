@@ -5,7 +5,7 @@ Weakly supervised multimodal violence detection faces asymmetric information den
 
 ## Framework
 
-![UAPA-HCF Framework](framework.png)
+![UAPA-HCF Framework](Framework.png)
 
 Full-resolution diagram: `Framework.pdf`
 
