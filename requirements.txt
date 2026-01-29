@@ -1,0 +1,7 @@
+numpy==2.0.0
+scipy==1.13.0
+scikit-learn==1.6.0
+torch==2.6.0
+torchvision==0.21.0
+einops==0.8.2
+tqdm==4.67.1
